@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    /* width: 500px;
+    height: 1023px;
+    background-color: purple;
+    color: white; */
+    display: none;
+}
+
+canvas {
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+}
